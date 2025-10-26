@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **m4yukhd4s@gmail.com** For Collaboration/Project or Anythi
 - ⚡ **Fun fact:** I love Designing More than Coding
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/mayukhdas8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.mayukh_.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mayukh Das ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m4yukhd4s@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/mayukhdas8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.mayukh_.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayukh-das-b282a930a/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m4yukhd4s@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
